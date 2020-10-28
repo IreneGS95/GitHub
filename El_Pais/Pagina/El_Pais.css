@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40pt;
+    font-weight: lighter;
+    font-family: times new roman;
+}
+
+h2 {
+    text-align: center;
+    font-size: 10pt;
+    font-weight: lighter;
+}
+
+li {
+    list-style-type: "-"
+}
+.imagen {
+    text-align: center;
+
+}
+
+main {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    padding: 30px;
+}
+.subrayado {
+    text-decoration: underline;
+}
