@@ -1,0 +1,17 @@
+header {
+    background-color: none;
+}
+
+section {
+    background-color: black;
+}
+
+img {
+    width: 33%;
+    height: auto;
+    filter: opacity(60%);
+}
+
+a:hover img {
+    filter: saturate(1);
+}
