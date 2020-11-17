@@ -9,12 +9,14 @@ header {
     font-size: 50px;
 }
 
-.padre{
+.container{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+
 }
 img {
-    width: 33%;
+    width: 30%;
     height: auto;
     filter: opacity(60%);
 }
